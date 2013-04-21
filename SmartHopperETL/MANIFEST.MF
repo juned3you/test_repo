@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: startup.DeactivateProcess
+Class-Path: log4j-1.2.15.jar mysql-connector-java-5.1.12-bin.jar
+Name: ./
+Sealed: true
