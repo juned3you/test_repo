@@ -1,6 +1,4 @@
 test commit
 Adding comment.
 
-Test
-
-Changed
+Testing commit
